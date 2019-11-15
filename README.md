@@ -1,4 +1,4 @@
-Note : this is a clone version from https://github.com/raghakot/keras-resnet /
+Note : this is a cloned version from https://github.com/raghakot/keras-resnet 
 
 # keras-resnet
 [![Build Status](https://travis-ci.org/raghakot/keras-resnet.svg?branch=master)](https://travis-ci.org/raghakot/keras-resnet)
